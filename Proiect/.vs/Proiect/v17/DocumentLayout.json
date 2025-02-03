@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "B:\\Documente\\Antohi Andi Ionel\\Facultati\\FMI\\C#\\Proiect\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEFF81D-EB4E-473A-97C3-F34AD852275F}|Proiect\\Proiect.csproj|b:\\documente\\antohi andi ionel\\facultati\\fmi\\c#\\proiect\\proiect\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{DAEFF81D-EB4E-473A-97C3-F34AD852275F}|Proiect\\Proiect.csproj|solutionrelative:proiect\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "B:\\Documente\\Antohi Andi Ionel\\Facultati\\FMI\\C#\\Proiect\\Proiect\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "Proiect\\DataSet1.xsd",
+              "ToolTip": "B:\\Documente\\Antohi Andi Ionel\\Facultati\\FMI\\C#\\Proiect\\Proiect\\DataSet1.xsd*",
+              "RelativeToolTip": "Proiect\\DataSet1.xsd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-02-03T15:38:19.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
