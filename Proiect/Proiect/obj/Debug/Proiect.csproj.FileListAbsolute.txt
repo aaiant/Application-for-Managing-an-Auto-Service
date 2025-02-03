@@ -1,0 +1,59 @@
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.FStart.resources
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\bin\Debug\Proiect.exe.config
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\bin\Debug\Proiect.exe
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\bin\Debug\Proiect.pdb
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.exe
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.pdb
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.Clienti.resources
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.Repere.resources
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.Devize.resources
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.FDevizeAct.resources
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\bin\Debug\Proiect.exe.config
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\bin\Debug\Proiect.exe
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\bin\Debug\Proiect.pdb
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.Clienti.resources
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.Devize.resources
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.FDevizeAct.resources
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.FStart.resources
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.Repere.resources
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.exe
+D:\Facultati\FMI\Anul 3\TAP\CopieProiect\Proiect_1.8 FDevizeAct REZOLVAT\Proiect\Proiect\obj\Debug\Proiect.pdb
+D:\Facultati\FMI\Anul 3\TAP\Proiect\Proiect\Proiect\obj\Debug\Proiect.ClientiComboBox.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\bin\Debug\Proiect.exe.config
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\bin\Debug\Proiect.exe
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\bin\Debug\Proiect.pdb
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.Clienti.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.ClientiComboBox.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.Devize.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.FDevizeAct.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.FStart.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.Repere.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.exe
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\Proiect\Proiect\obj\Debug\Proiect.pdb
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\bin\Debug\Proiect.exe.config
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\bin\Debug\Proiect.exe
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\bin\Debug\Proiect.pdb
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.Clienti.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.ClientiComboBox.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.Devize.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.FDevizeAct.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.FStart.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.Repere.resources
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.exe
+B:\Documente\Antohi Andi Ionel\Facultati\FMI\C#\Proiect\Proiect\obj\Debug\Proiect.pdb
