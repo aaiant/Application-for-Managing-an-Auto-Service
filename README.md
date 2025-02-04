@@ -4,13 +4,13 @@
 &emsp;It should be noted that the project is not 100% complete. To run the program, press CTRL + F5.
 <br>&emsp;The image section for Application is at the bottom of the page, after the Requirements images.**
 
-<br><h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> </a>
 </div>
 
-<br><h3 align="left">Requirements:</h3>
+<h3 align="left">Requirements:</h3>
 <p>
   &emsp;You must download and install Microsoft Access 2013 Runtime. Additionally, you need to configure the two DataSets in the project. This is done by double-clicking on the two DataSets. When you are in the DataSet, right-click on each table and click "Configure...". Then, simply browse and select the .accdb file located in the attached GitHub folder. Finally, just click test, next, no, next, finish.
   <br>&emsp;It should be noted that the database should be opened with the official MS Access program, as there might be security issues (permission denied). With the official version, I did not encounter any problems with the .accdb file.
