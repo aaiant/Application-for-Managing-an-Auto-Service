@@ -1,5 +1,4 @@
 <h2>Application-for-Managing-an-Auto-Service</h2>
-
 &emsp;About this Repo: **In my third year of studies at the Mathematics and Computer Science Faculty of Ovidius University in Constanța, I took a course called "Advanced Programming Techniques". As part of this course, I developed a project on a chosen topic, and I opted for auto service management. The project involved creating a graphical user interface using the C# programming language with Windows Forms in Visual Studio, with MS Access as the database.<br>
 &emsp;It should be noted that the project is not 100% complete. To run the program, press CTRL + F5.
 <br>&emsp;The image section for Application is at the bottom of the page, after the Requirements images.**
